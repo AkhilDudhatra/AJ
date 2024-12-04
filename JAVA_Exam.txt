@@ -1,0 +1,5 @@
+Tcp udp
+jsp servlet
+jdbc crude
+practical-20=each =>40
+mcq=10
